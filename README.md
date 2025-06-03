@@ -25,4 +25,6 @@
 🦑 Always *thinking* about building something... just not *actually* doing it 😁 
 
 
+<br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msclrlys&show_icons=true&theme=date_night)
