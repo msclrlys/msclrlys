@@ -1,16 +1,28 @@
-## Hi, I'm Aly!
+# 🌷Hi, I'm Alistair! 
+<br>
+☕ Just a tired cs student trying to survive with ctrl + c and coffee  </br>
+🫠 I don’t build that many projects... but I *do* open VS Code sometimes </br>
 
-<!--
-**msclrlys/msclrlys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆
+☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆
+<br> 
 
-Here are some ideas to get you started:
+### About me 
+👩🏻‍💻 Currently Studying Computer Science </br>
+💗 Learning at my own pace (mostly when deadlines hit) </br>
+😮‍💨 Slow and steady coder, but i get there eventually </br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆
+☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆
+<br> 
+
+
+### Currently
+🫶 Navigating my way through this course (slowly, but surely)  </br>
+🥱 Emotionally 50/50 about CS... depends on the day </br>
+🦑 Always *thinking* about building something... just not *actually* doing it 😁 
+
+
+
