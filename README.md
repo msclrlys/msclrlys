@@ -4,9 +4,6 @@
 🫠 I don’t build that many projects... but I *do* open VS Code sometimes </br>
 
 <br>
-☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆
-☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆
-<br> 
 
 ### About me 
 👩🏻‍💻 Currently Studying Computer Science </br>
@@ -14,16 +11,11 @@
 😮‍💨 Slow and steady coder, but i get there eventually </br>
 
 <br>
-☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆
-☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆
-<br> 
-
 
 ### Currently
 🫶 Navigating my way through this course (slowly, but surely)  </br>
 🥱 Emotionally 50/50 about CS... depends on the day </br>
 🦑 Always *thinking* about building something... just not *actually* doing it 😁 
-
 
 <br>
 
