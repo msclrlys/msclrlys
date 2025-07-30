@@ -2,8 +2,8 @@
 
 ## 💫 About Me:
 👩🏻‍💻 Currently Studying Computer Science<br>
-💗 Learning at my own pace (mostly when deadlines hit)<br>
-🫶 Navigating my way through this course (slowly, but surely)<br>
+💗 Learning at my own pace <br>
+🫶 Navigating my way through this course <br>
 🦑 Always thinking about building something... just not actually doing it 😁
 
 ## 🌐 Socials:
