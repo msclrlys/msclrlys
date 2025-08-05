@@ -1,10 +1,10 @@
 # 🌷Hi, I'm Alistair! 
 
 ## 💫 About Me:
-👩🏻‍💻 Currently Studying Computer Science<br>
+👩🏻‍💻 Currently learning javascript <br>
 💗 Learning at my own pace <br>
 🫶 Navigating my way through this course <br>
-🦑 Always thinking about building something... just not actually doing it 😁
+🦑 Always thinking about building something... just not actually doing it
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/msclrlys) 
