@@ -3,18 +3,20 @@
 # 🌷 Hi, I'm Alistar!
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F58EA8&center=true&vCenter=true&width=435&lines=Web+Developer;Arduino+Enthusiast;Always+building+something...;Welcome+to+my+profile!+🌸" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F58EA8&center=true&vCenter=true&width=435&lines=Web+Developer;Always+building+something;Welcome+to+my+profile!+🌸" alt="Typing SVG" />
 </a>
 
 <br/>
 
-### 🌸 About Me
-</div>
 
-- 👩🏻‍💻 **Currently learning:** Web Development (PHP/MySQL) & IoT (Arduino)
-- 💗 **Style:** Learning at my own pace
-- 🫶 **Goal:** Navigating my way through this course
-- 🦑 **Mood:** Always thinking about building something... just not actually doing it
+
+### 🌸 About Me
+
+
+ 👩🏻‍💻 **Currently learning:** Web Development <br>
+ 💗 **Style:** Learning at my own pace <br>
+ 🫶 **Goal:** Navigating my way through this course <br>
+ 🦑 **Mood:** Always thinking about building something... just not actually doing it <br>
 
 <br/>
 
@@ -30,6 +32,7 @@
 
 <br/>
 
+</div>
 <div align="center">
   <h3>🎀 Connect With Me</h3>
   
@@ -56,9 +59,6 @@
   <h3>🎀 GitHub Stats</h3>
   
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=msclrlys&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" height="150" alt="stats graph" />
     <img src="https://nirzak-streak-stats.vercel.app/?user=msclrlys&theme=date_night&hide_border=false" height="150" alt="streak graph" />
   </p>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msclrlys&theme=date_night&hide_border=false&layout=compact" height="150" alt="languages graph" />
 </div>
