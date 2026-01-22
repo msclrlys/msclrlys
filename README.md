@@ -3,7 +3,7 @@
 # 🌷 Hi, I'm Alistar!
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F58EA8&center=true&vCenter=true&width=435&lines=Web+Developer;Always+building+something;Welcome+to+my+profile!+🌸" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F58EA8&center=true&vCenter=true&width=435&lines=Web+Developer;Computer+Science+Student;Welcome+to+my+profile!+🌸" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -13,10 +13,9 @@
 ### 🌸 About Me
 
 
- 👩🏻‍💻 **Currently learning:** Web Development <br>
- 💗 **Style:** Learning at my own pace <br>
- 🫶 **Goal:** Navigating my way through this course <br>
- 🦑 **Mood:** Always thinking about building something... just not actually doing it <br>
+ 💗  Learning at my own pace <br>
+ 🫶  Navigating my way through this course <br>
+ 🦑  Always thinking about building something... just not actually doing it <br>
 
 <br/>
 
