@@ -8,6 +8,10 @@
 </a>
 
 <br><br>
+### Tools I use
+
+
+<br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
@@ -33,12 +37,24 @@
 </div>
 <br><br><br>
 
-
-
 <div>
-<img height="200" src="https://i.pinimg.com/736x/b2/88/b4/b288b4e44b8ec8c10dc527d7f1d13cc0.jpg"  />
-<img height="200" src="https://i.pinimg.com/736x/ea/83/c0/ea83c0fa86fae94107bd3c7fd1bfe4ff.jpg"  />
-<img height="200" src="https://i.pinimg.com/736x/0f/9b/5c/0f9b5c41133cfd581d47e27d957f260b.jpg"  />
+<img height="200" src="https://i.pinimg.com/736x/b2/88/b4/b288b4e44b8ec8c10dc527d7f1d13cc0.jpg"  /> &nbsp; &nbsp;
+<img height="200" src="https://i.pinimg.com/736x/ea/83/c0/ea83c0fa86fae94107bd3c7fd1bfe4ff.jpg"  /> &nbsp; &nbsp;
+<img height="200" src="https://i.pinimg.com/736x/b0/c4/59/b0c45945a9c48129b2a653bc08132606.jpg"  /> &nbsp; &nbsp;
 </div>
 
+<br><br><br>
+
+### Contact Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/msclrlys/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://discordapp.com/users/1165964236288172133"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://www.instagram.com/msclrlys/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.facebook.com/msclrlys/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="mailto:msclairelys@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+
 </div>
+
+
