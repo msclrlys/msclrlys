@@ -8,8 +8,8 @@
 </a>
 
 <br><br>
-### Tools I use
 
+### ₊˚ ✧ ━━━━━━━━━⊱ Tools I Use ⊰━━━━━━━━━ ✧ ₊˚
 
 <br>
 <div align="center">
@@ -45,7 +45,8 @@
 
 <br><br><br>
 
-### Contact Me
+### ₊˚ ✧ ━━━━━━━━━⊱ Contact Me ⊰━━━━━━━━━ ✧ ₊˚
+<br>
 <p align="center">
   <a href="https://www.linkedin.com/in/msclrlys/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://discordapp.com/users/1165964236288172133"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
@@ -54,6 +55,13 @@
   <a href="mailto:msclairelys@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/msclrlys/msclrlys/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/msclrlys/msclrlys/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/msclrlys/msclrlys/output/pacman-contribution-graph.svg">
+</picture>
 
 </div>
 
